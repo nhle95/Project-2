@@ -20,15 +20,13 @@ Project 2 (David Ma, Idean Beheshti, Travis Frocione, Nhan Le)
         
       Process: 
 
-       1. Extract data from each company’s website and create three csv files.
+       1. Scrape and extract data from each company’s website and create two csv files.
 
-       2. Read the csv files using Jupyter Notebook and clean it using Pandas. 
+       2. Read the csv files using Jupyter Notebook and transform it using Pandas. 
 
-       3. Transform the data by adding columns that list each retailer’s price and website link.
+       3. Merge the csv files and load the data into a single relational database. (SQL)
 
-       4. Merge the csv files and load the data into a single relational database. (SQL)
-
-       5. Determine the retailer that offers the best value for customers looking to purchase a new GPU. 
+       4. Determine the retailer that offers the best value for customers looking to purchase a new GPU. 
 
 
 
