@@ -29,5 +29,14 @@ Project 2 (David Ma, Idean Beheshti, Travis Frocione, Nhan Le)
        4. Determine the retailer that offers the best value for customers looking to purchase a new GPU. 
 
 
+  Report:
+    
+    Extract: indicates the original data sources and how the data were formatted at a professional level
+    
+    Transform:  explains what data clearing or transformation was required at a professional level
+    
+    Load: explains the final database, tables/collections, and why the topic was chosen at a professional level
+    
+    
 
 
