@@ -9,6 +9,10 @@ Project 2 (David Ma, Idean Beheshti, Travis Frocione, Nhan Le)
        - Microcenter
       
       Sources: 
+      
+        https://www.kaggle.com/datasets/shilongzhuang/gpu-prices-prediction
+        
+            gpu_specs_prices.csv
 
         https://www.bestbuy.com/site/computer-cards-components/video-graphics-cards/abcat0507002.c?id=abcat0507002
 
