@@ -31,9 +31,10 @@ Project 2 (David Ma, Idean Beheshti, Travis Frocione, Nhan Le)
 
   Report:
     
-    Extract: indicates the original data sources and how the data were formatted at a professional level
+    Extract: 
+    We used three sources of data for this project. First, we extracted data from Best Buy and Microcenter's websites by web scpraping using splinter. To accomplish this, we created a for loop that identifies keywords and extracts all of the GPU models and prices listed on these websites, which was then formatted into a dictionary on Python. Lastly, we found a csv file containing a comprehensive list of GPUs and prices on Kaggle, which we read and formatted using Pandas.         
     
-    Transform:  explains what data clearing or transformation was required at a professional level
+    Transform: explains what data clearing or transformation was required at a professional level
     
     Load: explains the final database, tables/collections, and why the topic was chosen at a professional level
     
